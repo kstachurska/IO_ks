@@ -15,5 +15,6 @@ Lista:
    
 Tekst **pogrubiony**.
 
-Link do mojego [repozytorium] (https://github.com/kstachurska/IO_ks)
+Link do mojego [repozytorium](https://github.com/kstachurska/IO_ks)
+
 
